@@ -6,8 +6,10 @@ module.exports = {
       fontFamily: {
         sans: ["DM Sans", "san-serif"],
       },
-    },
-  },
+
   plugins: [],
-}
+},
+},
+};
+
 
